@@ -12,6 +12,7 @@ Escolha entre pedra, papel ou tesoura clicando nos botões correspondentes e vej
 
 Divirta-se no jogo e que a melhor mão vença! 🤞👊✋✌️
 
+<p><b>Play<b/>: <a href="https://projeto-jokenpo.netlify.app/">JokenPÔ</a></p>
 
 <br>
 <br>
