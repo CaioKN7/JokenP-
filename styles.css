@@ -107,3 +107,14 @@ p{
 .joka-score span{
     color: rgb(224, 61, 61);
 }
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
